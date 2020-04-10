@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ed22eea-318e-431d-a541-6918ba84636c" name="Default Changelist" comment="" />
+    <list default="true" id="3ed22eea-318e-431d-a541-6918ba84636c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/theme/lte/permisos/crear.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/theme/lte/permisos/editar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/theme/lte/permisos/form.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/theme/lte/permisos/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/theme/lte/asside.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/theme/lte/footer.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/theme/lte/header.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/theme/lte/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/theme/lte/layout.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +28,9 @@
   </component>
   <component name="EditorConfigPreviewManager">
     <editorConfig file="$PROJECT_DIR$/.editorconfig" previewFile="$PROJECT_DIR$/routes/web.php" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -115,6 +131,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1aHK4FS1E9eBjhZoWqeKaDCdjIB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -122,9 +141,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -151,25 +171,68 @@
       <workItem from="1586386891040" duration="161000" />
       <workItem from="1586387053147" duration="95000" />
       <workItem from="1586387160151" duration="5213000" />
-      <workItem from="1586447213070" duration="19742000" />
+      <workItem from="1586447213070" duration="32344000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/laragon/www/sigi/.idea" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586387048264">
+    <state x="275" y="22" key="#Inspections" timestamp="1586554352704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586387048264" />
-    <state x="184" y="6" key="SettingsEditor" timestamp="1586387350927">
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1586554352704" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586494342984">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586387350927" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586494342984" />
+    <state x="448" y="162" key="NewPhpClassDialog" timestamp="1586554179528">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="162" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1586554179528" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1586494369538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586494369538" />
     <state x="359" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1586447213843">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="359" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586447213843" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586535372664">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586535372664" />
   </component>
 </project>

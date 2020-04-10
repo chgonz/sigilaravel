@@ -24,3 +24,5 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('admin/permiso', 'Permisos\PermisoController@index')->name('permiso');
+Route::get('admin/crear', 'Permisos\PermisoController@crear')->name('crear_permiso');
